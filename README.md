@@ -31,6 +31,9 @@ Thank you for visiting!
 | SAMSUNG | 2023.01 ~ 2023.12 | SAMSUNG SW Academy For youth 9th |
 | Pusan National University | 2017.03 ~ 2023.02 | Computer Sciences and Engineering MajorDepartment of software |
 
-[![HwangSe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsj4436&show_icons=true&theme=buefy)](https://github.com/hsj4436/github-readme-stats) 
+[![HwangSe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsj4436&show_icons=true&theme=buefy)](https://github.com/hsj4436/github-readme-stats)
+<br>
+BOJ Problem Solving Rank
+<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj4436)](https://solved.ac/{handle})
 </div>
